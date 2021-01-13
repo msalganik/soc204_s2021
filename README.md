@@ -1,1 +1,4 @@
-# soc204_s2021
+# Sociology 204, Social Networks
+Spring 2021
+Princeton University
+Matthew Salganik
