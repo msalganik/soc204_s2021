@@ -271,10 +271,6 @@
             <li>Watts, D.J. (1999). <a href="http://www.jstor.org/stable/2991086">Networks, dynamics, and the small world phenomenon</a>. <i>American Journal of Sociology</i>, 105(2):493-527.
                 <a href="#access" class="ca"></a>
             </li>
-            <li><a href="http://www.ladamic.com/netlearn/NetLogo4/SmallWorldWS.html">Watts-Strogatz small world model animation</a> by <a href="http://www-personal.umich.edu/~ebakshy/">Eytan Bakshy</a> and <a href="http://www.ladamic.com">Lada Adamic</a>.
-                (optional)
-                <a href="#access" class="oa"></a>
-            </li>
         </ul>
 
         <hr>
@@ -290,10 +286,6 @@
             </li>
             <li>Barabasi, A.L. and Albert, R. (1999) <a href="http://dx.doi.org/10.1126/science.286.5439.509">The emergence of scaling in random networks.</a> <i>Science</i>, 286:509-512.
                 <a href="#access" class="ca"></a>
-            </li>
-            <li><a href="http://www.ladamic.com/netlearn/NetLogo4/RAndPrefAttachment.html">Barabasi-Albert random graph animation</a> by <a href="http://www-personal.umich.edu/~ebakshy/">Eytan Bakshy</a> and <a href="http://www.ladamic.com">Lada Adamic</a>.
-                (optional)
-                <a href="#access" class="oa"></a>
             </li>
             <li>Liljeros, F. et al. (2001). <a href="http://dx.doi.org/10.1038/35082140">The web of human sexual contacts.</a> <i>Nature</i>, 411:907-908 with <a href="http://www.nature.com/nature/journal/v423/n6940/full/423605a.html">comment</a> and <a href="http://www.nature.com/nature/journal/v423/n6940/full/423606a.html">rejoinder</a>.
                 <a href="#access" class="ca"></a>
