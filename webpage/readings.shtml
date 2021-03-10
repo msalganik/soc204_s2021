@@ -27,22 +27,22 @@
         <!--#set var="11" value="Cascades and fads in cultural markets" -->
         <!--#set var="12" value="Midterm exam" -->
 
-        <!--#set var="13" value="TBA" -->
+        <!--#set var="13" value="Respondent-driven sampling" -->
 
-        <!--#set var="14" value="TBA" -->
-        <!--#set var="15" value="TBA" -->
+        <!--#set var="14" value="Stength of weak ties" -->
+        <!--#set var="15" value="Weak ties and complex contagion" -->
 
-        <!--#set var="16" value="TBA" -->
-        <!--#set var="17" value="TBA" -->
+        <!--#set var="16" value="Experimental studies of contagion" -->
+        <!--#set var="17" value="Going viral" -->
 
-        <!--#set var="18" value="TBA" -->
-        <!--#set var="19" value="TBA" -->
+        <!--#set var="18" value="Social media and individuals" -->
+        <!--#set var="19" value="Social media and society" -->
 
-        <!--#set var="20" value="TBA" -->
-        <!--#set var="21" value="TBA" -->
+        <!--#set var="20" value="Social ads in social media" -->
+        <!--#set var="21" value="Fixing social media" -->
 
-        <!--#set var="22" value="TBA" -->
-        <!--#set var="23" value="TBA" -->
+        <!--#set var="22" value="Network scale-up method to study groups most at-risk for HIV " -->
+        <!--#set var="23" value="Who knows what about who?" -->
 
         <!--#set var="24" value="Choose your own adventure" -->
 
@@ -388,127 +388,103 @@
         <hr>
         <hr>
 
+        <h3 id="spring_break">Spring break</h3>
+        <ul>
+            <li>Have a safe and restful break.</li>
+        </ul>
         <h3 id="13"><!--#echo var="13" --></h3>
-        <!-- <ul>
-            <li>Granovetter, M. (1973). <a href="http://www.jstor.org/stable/2776392">The strength of weak ties.</a> <i>American Journal of Sociology</i>, 78(6), 1360-1380.
-                <a href="#access" class="ca"></a>
-            </li>
-            <li>Smith, S. (2005). <a href="http://www.jstor.org/stable/10.1086/428814">"Don't put my name on it": Social capital activation and job-finding assistance among the black urban poor.</a> <i>American Journal of Sociology</i>, 111(1), 1-57.
-                <a href="#access" class="ca"></a>
-            </li>
-        </ul>-->
+        <ul>
+            <li>No reading.</li>
+        </ul>
 
         <hr>
 
         <h3 id="14"><!--#echo var="14" --></h3>
-        <!-- <ul>
-          <li>Pariser, E. (2011). <a href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles">Beware online 'filter bubbles'.</a> <i>TED talk</i>. <a href="#access" class="oa"></a></li>
-          <li>Weisberg, J. (2011). <a href="http://www.slate.com/articles/news_and_politics/the_big_idea/2011/06/bubble_trouble.html">Bubble Trouble: Is Web personalization turning us into solipsistic twits.</a> <i>Slate</i>. <a href="#access" class="oa"></a></li>
-          next time add Lazer, D. (2015) <a href="http://dx.doi.org/10.1126/science.aab1422">The rise of the social algorithm</a> <i>Science</i>
-          <li>Bakshy, E., Messing, S., and Adamic, L.A. (2015) <a href="http://dx.doi.org/10.1126/science.aaa1160">Exposure to ideologically diverse news and opinion on Facebook.</a>  <i>Science</i>. <a href="#access" class="ca"></a></li>
-          <li>Sandvig, C. (2015) <a href="https://socialmediacollective.org/2015/05/07/the-facebook-its-not-our-fault-study/">The Facebook 'it’s not our fault' study.</a> <i>Social Media Collective Research Blog</i>. <a href="#access" class="oa"></a></li>
-        </ul>-->
+        <ul>
+            <li>Granovetter, M. (1973). <a href="http://www.jstor.org/stable/2776392">The strength of weak ties.</a> <i>American Journal of Sociology</i>, 78(6), 1360-1380.
+                <a href="#access" class="ca"></a></li>
+            <li>Smith, S. (2005). <a href="http://www.jstor.org/stable/10.1086/428814">"Don't put my name on it": Social capital activation and job-finding assistance among the black urban poor.</a> <i>American Journal of Sociology</i>, 111(1), 1-57.
+                <a href="#access" class="ca"></a></li>
+        </ul>
 
         <h3 id="15"><!--#echo var="15" --></h3>
-        <!-- <ul>
-          <li>Explore <a href="http://graphics.wsj.com/blue-feed-red-feed/">Blue Feed, Red Feed</a>, <A href="https://flipfeed.media.mit.edu/">FlipFeed</a>, and/or <a href="https://www.escapeyourbubble.com/">Escape Your Bubble</a>.</li>
-          <li>Eslami, et al. (2015) <a href="https://doi.org/10.1145/2702123.2702556">"I always assumed that I wasn't really that close to [her]:" Reasoning about invisible algorithms in the news feed</a>. Proceedings of the 33rd Annual SIGCHI Conference on Human Factors in Computing Systems, Association for Computing Machinery (ACM): 153-162. (and summary <a href="https://www.youtube.com/watch?v=XQRJI5BcLMM">video</a>). <a href="#access" class="ca"></a></li>
-          next time replace Eslami et al (2015) with Eslami et al. (2016) <a href="http://dx.doi.org/10.1145/2858036.2858494">First I "like" it, then I hide it: Folk Theories of Social Feeds</a>
-          <li>Constine, J. (2016) <a href="https://techcrunch.com/2016/09/06/ultimate-guide-to-the-news-feed/">How Facebook News Feed Works</a>. <a href="#access" class="oa"></a></li>
-          <li>Roberts, S. (2001) <a href="http://dx.doi.org/10.1080/09332480.2001.10542259">Surprises from self-experimentation: sleep, mood, and weight.</a> <i>Chance</i> 14(2): 7-14. <a href="#access" class="ca"></a></li>
-          <li>Rubin, D.B. (2001) <a href="http://dx.doi.org/10.1080/09332480.2001.10542261">Comment: self-experimentation for causal effects.</a> <i>Chance</i>. 14(2): 16-17. <a href="#access" class="ca"></a></li>
-        </ul> -->
+        <ul>
+          <li>Gladwell, M. (2010). <a href="https://www.newyorker.com/magazine/2010/10/04/small-change-malcolm-gladwell">Small change: The revolution will not be tweeted.</a> <i>New Yorker</i>.<a href="#access" class="oa"></a>
+          <li>Centola, D. and Macy, M.W. (2007). <a href="http://dx.doi.org/10.1086/521848">Complex contagion and the weakness of long ties.</a> <i>American Journal of Sociology</i>, 113(3):702-734. <a href="#access" class="ca"></a></li>
+          <li>Centola, D. (2010). <a href="http://dx.doi.org/10.1126/science.1185231">The spread of behavior in an online social network experiment.</a> <i>Science</i>, 329(5996):1194-1197. <a href="#access" class="ca"></a></li>
+        </ul>
 
         <hr>
 
         <h3 id="16"><!--#echo var="16" --></h3>
-        <!-- <ul>
-          <li>Marsden, P.V. and Campbell, K.E. (1984) <a href="http://www.jstor.org/stable/2579058">Measuring tie strength</a>. <i>Social Forces</i> 63(2):482-501. <a href="#access" class="ca"></a></li>
-          <li>Gilbert, E. and Karahalios, K. (2009). <a href="https://doi.org/10.1145/1518701.1518736">Predicting tie strength with social media</a> <i>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</i>, 211-220. <a href="#access" class="ca"></a></li>
-          <li>Jones, J.J., et al. (2013). <a href="http://dx.doi.org/10.1371/journal.pone.0052168">Inferring tie strength from online directed behavior.</a> <i>PLOS One</i>, 8(1):e521168. (Note: When reading this paper, please read the Materials and Methods section after the Introduction and before Results.) <a href="#access" class="oa"></a></li>
-        </ul> -->
+        <ul>
+          <li>Nickerson, D.W. (2008). <a href="http://dx.doi.org/10.1017/S0003055408080039">Is voting contagious? Evidence from two field experiments.</a> <i>American Political Science Review</i>, 102(1):49-57.
+              <a href="#access" class="ca"></a></li>
+          <li>Kramer, A.D.I. et al. (2014). <a href="http://dx.doi.org/10.1073/pnas.1320040111">Experimental evidence of massive-scale emotional contagion through social networks.</a> <i>Proceedings of the National Academy of Sciences</i>.
+              <a href="#access" class="oa"></a></li>
+        </ul>
 
         <h3 id="17"><!--#echo var="17" --></h3>
-        <!-- <ul>
-            <li>Fountain, H. (2006). <a href="http://www.nytimes.com/2006/07/02/weekinreview/02fountain.html">The lonely American just got a bit lonelier.</a> <i>The New York Times</i>, July 2.
-                <a href="#access" class="oa"></a>
-            </li>
-            <li>McPherson, M., Smith-Lovin, L., and Brashears, M.E. (2006). <a href="http://www.jstor.org/stable/30038995">Social isolation in America: Changes in core discussion networks over two decades.</a> <i>American Sociological Review</i>, 71(3):353-375.
-                <a href="#access" class="ca"></a>
-            </li>
-            next time add Fischer, C (2009) <a href="http://dx.doi.org/10.1177/000312240907400408">The 2004 GSS Finding of Shrunken Social Networks: An Artifact?
-</a> <i>American Sociological Review</i>
-  </ul> -->
+        <ul>
+          <li>Goel, S. et al. (2015). <a href="http://dx.doi.org/10.1287/mnsc.2015.2158">The structural virality of online diffusion.</a> <i>Management Science</i>.
+              <a href="#access" class="ca"></a></li>
+          <li>Facebook Data Science (2014) <a href="https://www.facebook.com/notes/facebook-data-science/can-cascades-be-predicted/10152056491448859">Can cascades be predicted?</a>
+              <a href="#access" class="oa"></a></li>
+          <li>Cheng et al. (2014) <a href="http://dx.doi.org/10.1145/2566486.2567997">Can cascades be predicted?</a> <i>WWW</i>.
+              <a href="#access" class="ca"></a></li>
+        </ul>
 
         <hr>
 
         <h3 id="18"><!--#echo var="18" --></h3>
-        <!-- <ul>
-            <li>Strogatz, S. (2012). <a href="http://opinionator.blogs.nytimes.com/2012/09/17/friends-you-can-count-on/">Friends you can count on.</a> <i>New York Times</i>, September 17.
-                <a href="#access" class="oa"></a>
-            </li>
-            <li>Christakis, N.A. (2010). <a href="http://www.ted.com/talks/nicholas_christakis_how_social_networks_predict_epidemics.html">How social networks predict epidemics.</a> TED Talk.
-                <a href="#access" class="oa"></a>
-            </li>
-            <li>Christakis, N.A. and Fowler, J.H. (2010). <a href="http://dx.doi.org/10.1371/journal.pone.0012948">Social network sensors for early detection of contagious outbreaks.</a> <i>PLoS ONE</i> 5(9):e12948.
-                <a href="#access" class="oa"></a>
-            </li>
-        </ul> -->
+        <ul>
+          <li>Kross, E. et al. (2020). <a href="https://doi.org/10.1016/j.tics.2020.10.005">Social media and well-being: Pitfalls, progress, and next steps</a>, <i>Trends in Cognitive Science</i>. <a href="#access" class="oa"></a></li>
+          <li>Carey, B. (2019). <a href="https://www.nytimes.com/2019/01/30/health/facebook-psychology-health.html">This is your brain off Facebook</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Allcott, H. et al. (2020). <a href="http://dx.doi.org/10.1257/aer.20190658">The welfare effects of social media.</a> <i>American Economic Review</i>. <a href="#access" class="oa"></a></li>
+          <li>Baym, N.K. et al. (2020). <a href="">Mindfully scrolling: Rethinking Facebook after time deactived.</a> <i>Social Media + Society</i>. <a href="#access" class="oa"></a></li>
+        </ul>
 
         <h3 id="19"><!--#echo var="19" --></h3>
-        <!-- <ul>
-            <li>Bernard, H.R. et al. (2010). <a href="http://dx.doi.org/10.1136/sti.2010.044446">Counting hard-to-count populations: The network scale-up method for public health.</a> <i>Sexually Transmitted Infections</i>, 86:ii11-ii15.
-                <a href="#access" class="oa"></a>
-            </li>
-            next time assign Feehan and Salganik (2016) instead of Bernard et al (2010)</i>
-            <li>Feehan et al. (2016). <a href="https://doi.org/10.1093/aje/kwv287">Quality vs. Quantity: A survey experiment to improve the network scale-up method.</a>  <i>American Journal of Epidemiology</i> 183(8): 747-757. <a href="#access" class="oa"></a></li>
-        </ul> -->
+        <ul>
+          <li>Crokett, M.J. (2017). <a href="https://doi.org/10.1038/s41562-017-0213-3">Moral outrage in the digital age.</a> <i>Nature Human Behavior</i>. <a href="#access" class="ca"></a></li>
+          <li>Brady, W.J. et al. (2021). <a href="https://psyarxiv.com/gf7t5">How social learning amplifies moral outrage expression in online social networks.</a> <i>Working paper</i>. <a href="#access" class="oa"></a></li>
+          <li>Aral, S. (2018). <a href="https://www.nytimes.com/2018/03/08/opinion/sunday/truth-lies-spread-online.html">How lies spread online.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Vosoughi, S. et al. (2018). <a href="http://dx.doi.org/10.1126/science.aap9559">The spread of true and false news online.</a> <i>Science</i>. <a href="#access" class="ca"></a></li>
+          <li>Lazer, D. (2015). <a href="https://dx.doi.org/10.1126/science.aab1422">The rise of the social algorithm.</a> <i>Science</i>. <a href="#access" class="ca"></a></li>
+          <li>Bakshy, E., Messing, S., and Adamic, L.A. (2015) <a href="https://dx.doi.org/10.1126/science.aaa1160">Exposure to ideologically diverse news and opinion on Facebook.</a> <i>Science</i>. <a href="#access" class="ca"></a></li>
+        </ul>
 
         <hr>
 
         <h3 id="20"><!--#echo var="20" --></h3>
-        <!-- <ul>
-          <li>Goel, S. et al. (2010) <a href="https://5harad.com/papers/friendsense.pdf">Real and perceived attitude agreement in social networks.</a> <i>Journal of Personality and Social Psychology</i>.
-              <a href="#access" class="oa"></a>
-          </li>
-          <li>Cowan, S. (2014) <a href="http://www.sociologicalscience.com/download/volume%201/november/SocSci_v1_466to492.pdf">Secrets and Misperceptions: The Creation of Self-Fulfilling Illusions</a> <i>Sociological Science</i>.
-              <a href="#access" class="oa"></a>
-          </li>
-        </ul> -->
+        <ul>
+          <li>Duhigg, C. (2012). <a href="https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html">How companies learn your secrets.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Goel, S. (2010). <a href="http://messymatters.com/birdshop/">Birds of a feather shop together.</a> <i>Messy Matters blog</i>. <a href="#access" class="oa"></a></li>
+          <li>Goel, S. and Goldstein D.G. (2014). <a href="https://doi.org/10.1287/mksc.2013.0817">Predicting Individual Behavior with Social Networks.</a> <i>Marketing Science</i>. <a href="#access" class="ca"></a></li>
+          <li>Bakshy, E. et al. (2012). <a href="https://doi.org/10.1145/2229012.2229027">Social influence in social advertising: Evidence from field experiments.</a> <i>EC</i>. <a href="#access" class="ca"></a></li>
+        </ul>
 
         <h3 id="21"><!--#echo var="21" --></h3>
-        <!-- <ul>
-          <li>Nickerson, D.W. (2008). <a href="http://dx.doi.org/10.1017/S0003055408080039">Is voting contagious? Evidence from two field experiments.</a> <i>American Political Science Review</i>, 102(1):49-57.
-              <a href="#access" class="ca"></a>
-          </li>
-          <li>LaCour, M.J. and Green, D.P. (2014). <a href="http://dx.doi.org/10.1126/science.1256151">When contact changes minds: An experiment on transmission of support for gay equality.</a> <i>Science</i>,  346(6215):1366-1369.</li>
-              <a href="#access" class="ca"></a>
-          </li>
-          <li>Kramer, A.D.I. et al. (2014). <a href="http://dx.doi.org/10.1073/pnas.1320040111">Experimental evidence of massive-scale emotional contagion through social networks.</a> <i>Proceedings of the National Academy of Sciences</i>.
-              <a href="#access" class="oa"></a>
-          </li>
-        </ul> -->
-
+        <ul>
+          <li>Frank, R.H. (2021). <a href="https://www.nytimes.com/2021/02/11/business/social-media-facebook-regulation.html">The economic case for regulating social media.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Pennycook, G. and Rand, D. (2020). <a href="https://www.nytimes.com/2020/03/24/opinion/fake-news-social-media.html">The right way to fight fake news.</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Bail, C.A. et al. (2018). <a href="https://doi.org/10.1073/pnas.1804840115">Exposure to opposing views on social media can increase political polarization.</a> <i>PNAS</i>. <a href="#access" class="ca"></a></li>
+          <li>Kaiser, B. et al. (2021). <a href="https://benkaiser.org/files/kaiser2021adapting.pdf">Adapting security warnings to counter online disinformation.</a> <i>30th USENIX Security Symposium (USENIX Security 21)</i>. <a href="#access" class="oa"></a></li>
+        </ul>
         <hr>
 
         <h3 id="22"><!--#echo var="22" --></h3>
-        <!-- <ul>
-          <li>Goel, S. et al (2015). <a href="http://dx.doi.org/10.1287/mnsc.2015.2158">The structural virality of online diffusion.</a> <i>Management Science</i>.
-              <a href="#access" class="ca"></a>
-          </li>
-          <li>Facebook Data Science (2014) <a href="https://www.facebook.com/notes/facebook-data-science/can-cascades-be-predicted/10152056491448859">Can cascades be predicted?</a>
-              <a href="#access" class="oa"></a>
-          </li>
-          <li>Cheng et al. (2014) <a href="http://dx.doi.org/10.1145/2566486.2567997">Can cascades be predicted?</a> <i>WWW</i>.
-              <a href="#access" class="ca"></a>
-          </li>
-        </ul> -->
+        <ul>
+            <li>Feehan, D.M. and Salganik, M.J. (2016). <a href="https://doi.org/10.1177/0081175016665425">Generalizing the Network Scale-up Method: A New Estimator for the Size of Hidden Populations</a>. <i>Sociological Methodology</i> <a href="#access" class="ca"></a></li>
+            <li>Feehan, D.M. et al. (2016). <a href="https://doi.org/10.1093/aje/kwv287">Quality vs. Quantity: A survey experiment to improve the network scale-up method.</a>  <i>American Journal of Epidemiology</i> 183(8): 747-757. <a href="#access" class="oa"></a></li>
+        </ul>
 
         <h3 id="23"><!--#echo var="23" --></h3>
-        <!-- <ul>
-          <li>Mossong, J. et al. (2008). <a href="http://dx.doi.org/10.1371/journal.pmed.0050074">Social Contacts and Mixing Patterns Relevant to the Spread of Infectious Diseases.</a> <i>PLoS Medicine</i> 5(3):e74. <a href="#access" class="oa"></a></li>
-          <li>Salathé, M. et al. (2010). <a href="http://dx.doi.org/10.1073/pnas.1009094108">A High-Resolution Human Contact Network for Infectious Disease Transmission.</a> <i>Proceedings of the National Academy of Sciences</i> 107(51):22020–22025. <a href="#access" class="oa"></a></li>
-        </ul> -->
+        <ul>
+          <li>Salganik, M.J. et al. (2011). <a href="https://doi.org/10.1016/j.socnet.2010.10.006">The game of contacts: Estimating the social visibility of groups.</a> <i>Social Networks</i> <a href="#access" class="ca"></a></li>
+          <li>Cowan, S. (2014). <a href="http://www.sociologicalscience.com/download/volume%201/november/SocSci_v1_466to492.pdf">Secrets and Misperceptions: The Creation of Self-Fulfilling Illusions</a> <i>Sociological Science</i>. <a href="#access" class="oa"></a></li>
+        </ul>
+
 
         <hr>
 
