@@ -9,11 +9,11 @@
 
   <div class="container">
 
-    <h3 id="time">Lecture time</h3>
+    <h3 id="lecture_time">Lecture time</h3>
 
     All lectures are pre-recorded and available from Canvas.</li>
 
-    <h3 id="time">Precept time</h3>
+    <h3 id="precept_time">Precept time</h3>
 
     We will have precept over Zoom, and you can find the link on Canvas.  Here are the precept times (all times East Coast US):
     <ul>
@@ -28,7 +28,7 @@
 
     <p>This course is happening in the middle of pandemic. You will not need to be on campus for any aspects of this course. I will do my best to adjust the course to the current situation, but if you are having any difficulties because of the pandemic please let me know so that we can find a solution or develop an accomidation.</p>
 
-     <h3>Class elements and grades</h3>
+     <h3 id="grades">Class elements and grades</h3>
      <p>The class has four main graded elements, which are designed to promote learning and are used for assessment:</p>
 
       <ul>
